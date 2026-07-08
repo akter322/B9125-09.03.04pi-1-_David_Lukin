@@ -1,3 +1,3 @@
 # B9125-09.03.04pi-1-_David_Lukin
 1
-im fefu student specialnost programmnaya inzheneriya igrayu v kompik kiberspotsmen po dedloky
+Меня зовут Лукин Давид Александрович, я студент 1 курса ДВФУ, специальность "Программная инженерия", занимаюсь разработкой различных проектов на языке программирования Python. Репозиторий создан в учебных целях
